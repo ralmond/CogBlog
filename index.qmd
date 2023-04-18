@@ -13,4 +13,4 @@ page-layout: full
 title-block-banner: false
 ---
 
-This is the blog of the AERA Cognition and Assessment SIG.  The SIG is open to all AERA members.  We welcome comments from people interested in technical issues in educational assessment whether they are members or not.
+This is the blog of the AERA Cognition and Assessment SIG. The SIG is open to all AERA members. We welcome comments from people interested in technical issues in educational assessment whether they are members or not.
