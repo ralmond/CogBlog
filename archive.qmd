@@ -1,0 +1,9 @@
+---
+title: "Archive"
+page-layout: full
+listing: 
+  contents: post/**/*.qmd
+  type: default
+  fields: [date, author, title, categories]
+  sort: 'date author desc'
+---

@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Cognition and Assessment Blog"
+  site-url: https://pluto.coe.fsu.edu/CogBlog
+  description: "Blog for the AERA Cognition and Assessment SIG"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/ralmond/CogBlog
+      - icon: rss
+        href: blog.xml
+      - text: "SIG Home"
+        href: https://www.aera.net/SIG167/Cognition-and-Assessment-SIG-167
+      - text: AERA
+        href: https://www.aera.net/
+      - text: Resources
+        href: resources.qmd
+      - text: Archive
+        href: arvhive.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

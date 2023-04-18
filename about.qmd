@@ -1,0 +1,45 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com/ralmond/CogBlog
+---
+
+The AERA [Cognition and Assessment SIG](https://www.aera.net/SIG167/Cognition-and-Assessment-SIG-167) is a special interest group looking at the connection between educational assessment and models of cognition.
+
+This blog is a way to communicate among members.  Membership in the SIG is open to members of the [American Educational Research Association](https://aera.net); to register for the SIG, select it on your membership form.
+
+## Code of conduct
+
+We expect that all posts and comments will be respectful of others whose opinions might differ.  In particular, we will remove any post that uses disrespectful language about persons with different gender, race, country of origin or residence, religious beliefs or political affiliations.
+
+Also, advertisements for commercial products will not be accepted, although reviews of commerical projects relevant to the topic of the blog will be accepted.
+
+The Cognition and Assessment communications team (basically the officers of the SIG and certain volunteers) will have complete descretion in what is and is not acceptable content.
+
+## Contributers Welcome
+
+Do you want to contribute?  Here is how you can do it.
+
+1) Go onto github and create a fork of the main repository:  <https://github.com/ralmond/CogBlog.git>.
+
+2) Create your own post by creating a new `.qmd` file in the posts directory.  (I found this [blog post](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html) very helpful.  As we are using `quarto` for the blog, this will be easiest to do in R Studio.
+
+3) Run the `render` function to make sure that your content renders properly.
+
+4) When you are satisfied with your post, create a github pull request to the main repository.
+
+5) A member of the sig communications team will review your post and then accept the pull request.  At that point, it should publish onto the blog.
+
+## Issues or Concerns?
+
+Ultimately, the website is run by Russell Almond @ Florida State University.  You may contact him either through the issues page on Github or through his FSU email.
+
+
